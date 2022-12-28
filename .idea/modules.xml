@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Example_1/Example_1.iml" filepath="$PROJECT_DIR$/Example_1/Example_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exmp_2_yaml/Exmp_2_profile/Exmp_2_profile.iml" filepath="$PROJECT_DIR$/Exmp_2_yaml/Exmp_2_profile/Exmp_2_profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exmp_2_yaml/Exmp_2_yaml.iml" filepath="$PROJECT_DIR$/Exmp_2_yaml/Exmp_2_yaml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exmp_3_mybatis/Exmp_3_mybatis.iml" filepath="$PROJECT_DIR$/Exmp_3_mybatis/Exmp_3_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_ssm/demo_ssm.iml" filepath="$PROJECT_DIR$/demo_ssm/demo_ssm.iml" />
     </modules>
   </component>
 </project>
